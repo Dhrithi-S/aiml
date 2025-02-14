@@ -2,3 +2,5 @@ AUB
 AIML
 Amity 
 University
+
+amity
