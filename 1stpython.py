@@ -3,3 +3,4 @@ b=int(input("enter the value b"))
 c=a+b
 print(c)
 
+
